@@ -2,7 +2,7 @@
 name: New command
 about: Use this template to suggest a new command
 title: ''
-labels: ''
+labels: New Command
 assignees: ''
 
 ---
